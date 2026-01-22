@@ -133,4 +133,5 @@ Standardized job location dimension. [page:1]
 
 ---
 
-You can trim or extend this dictionary depending on which columns you actually use in your visuals and measures.
+
+
